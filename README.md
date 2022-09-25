@@ -1,0 +1,1 @@
+Practice repository based on Android Kotlin Fundamentals: LinearLayout using the Layout Editor : https://developer.android.com/codelabs/kotlin-android-training-linear-layout?index=..%2F..android-kotlin-fundamentals
